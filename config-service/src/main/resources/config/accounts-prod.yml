@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Romeos-code accounts related prod APIs "
+  contactDetails:
+    name: "Romeo Jerenyama - Product Owner"
+    email: "romeojerenyama@gmail.com"
+  onCallSupport:
+    - (+351) 968-980-744

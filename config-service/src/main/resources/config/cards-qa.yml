@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Romeos-code cards related QA APIs "
+  contactDetails:
+    name: "Romeo Jerenyama - QA Lead"
+    email: "romeojerenyama@gmail.com"
+  onCallSupport:
+    - (+351) 968-980-744

@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Romeos-code cards related local APIs "
+  contactDetails:
+    name: "Romeo Jerenyama - Developer"
+    email: "romeojerenyama@gmail.com"
+  onCallSupport:
+    - (+351) 968-680-744

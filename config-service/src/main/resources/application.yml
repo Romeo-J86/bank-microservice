@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: config_server
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        git:
+          uri: "https://github.com/Romeo-J86/config-server.git"
+          default-label: master
+          timeout: 5
+          clone-on-start: true
+          force-pull: true
+
+server:
+  port: 8085
